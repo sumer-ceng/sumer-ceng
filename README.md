@@ -1,9 +1,9 @@
 # Hi, I'm Ahmet Sumer
 
-🎓 Computer Engineering student  
-🤖 AI & Machine Learning enthusiast  
-📱 Flutter mobile developer  
-⚙️ Embedded systems & microcontroller programmer  
+Computer Engineering student  
+AI & Machine Learning enthusiast  
+Flutter mobile developer  
+Embedded systems & microcontroller programmer  
 
 ## Technical Skills
 - **Languages:** Python, Java, C
