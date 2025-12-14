@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmet Sumer
 
-<!--
-**sumer-ceng/sumer-ceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+🤖 AI & Machine Learning enthusiast  
+📱 Flutter mobile developer  
+⚙️ Embedded systems & microcontroller programmer  
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Languages:** Python, Java, C
+- **Mobile:** Flutter (Dart)
+- **AI / ML:** Scikit-learn, Neural Networks (MLP)
+- **Embedded:** Arduino, ESP8266, Microcontroller programming (C)
+- **Databases:** SQL, PostgreSQL, API integration
+- **Tools:** Git, GitHub, VS Code, Ngrok (Secure tunneling for local servers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI-powered Exam Coaching System (Flutter)
+- Telco Customer Churn Prediction (MLP)
+- Elevator Weight Control System (Arduino + HX711 + Bluetooth/Wi-Fi)
+
+## Interests
+Artificial Intelligence, Data Science, Mobile Development, Embedded Systems
